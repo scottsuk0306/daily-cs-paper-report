@@ -1,4 +1,4 @@
-![Daily Computer Science Paper Report](./title.png)
+<img src="title.png" alt="drawing" width="1200"/>
 
 # daily-cs-paper-report
 
