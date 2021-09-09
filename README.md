@@ -1,4 +1,4 @@
-![Daily Computer Science Paper Report](./img/title.png)
+![Daily Computer Science Paper Report](./title.png)
 
 # daily-cs-paper-report
 
