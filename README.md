@@ -25,4 +25,4 @@ Please ⭐️ this repository if this project helped you!
 ## License
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
 
-Copyright &copy; 2021 [Scott Suk](https://github.com/scottsuk0306).
+Copyright &copy; 2023 [Scott Suk](https://github.com/scottsuk0306).
