@@ -2,7 +2,7 @@
 
 # daily-cs-paper-report
 
-Daily Computer Science Paper Report repository is inspired by [github-action-with-python](https://github.com/zzsza/github-action-with-python). Everyday, report will be uploaded as an issue here, containing information about today's recent papers and hot subjects. This project is implemented in Python 3, and uses Github Action functionalities to open an issue automatically. 
+Daily Computer Science Paper Report repository that issues computer science report everyday. Report will be uploaded as an issue here, containing information about today's recent papers and hot subjects. This project is implemented in Python 3, and uses Github Action functionalities to open an issue automatically. 
 
 ## 🙌 Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
